@@ -38,3 +38,5 @@ This graph represents the count of bikers by gender, user type and weekday.
 Bike sharing in NYC is a quick turnover service, as the majority of bikers utilize the service for only 5 minutes!  Males are the main users of the service; however, via marketing, we may be able to increase and target female bikers and encourage them to utilize the service as well. This information will help guide us in deciding the size and quantity of the bikes we have available in order to meet the demand of our users as well as when we can service and maintain inventory. 
 
 Two additional points of data which would be useful may be a census of how many people have never used a bike sharing service, but would be interested in more information. This would give us an idea as to what the potential is for market growth in this industry. Furthermore, a breakdown of the prices paid for the NYC bike sharing services and whether bike sharing would be better promoted on a membership basis rather than based on a per usage basis.
+
+[link to dashboard](https://public.tableau.com/app/profile/kristen.legault)
